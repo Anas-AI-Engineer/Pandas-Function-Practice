@@ -1,16 +1,5 @@
 # 🐼 Python Pandas Functions
 
-<p align="center">
-  <strong>Learning Data Analysis Through Practical Python Coding</strong>
-</p>
-
-<p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-  ![Status](https://img.shields.io/badge/Status-Learning-orange)
-  ![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-green)
-</p>
-
 ## 📌 About This Project
 
 This repository is dedicated to learning and practicing essential **Python Pandas functions** through hands-on coding. It covers important concepts used in data manipulation, cleaning, exploration, and analysis.
